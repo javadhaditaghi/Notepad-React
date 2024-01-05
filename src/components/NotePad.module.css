@@ -1,0 +1,26 @@
+.notePad {
+    width: 250px;
+    /* height: 120px; */
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: white;
+    -webkit-box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.29);
+    -moz-box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.29);
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.29);
+}
+
+.notePad h3,
+.notePad p {
+    color: #9a9997;
+}
+
+.notePad h3 {
+    padding: 20px 20px 10px 20px !important;
+}
+
+.notePad p {
+    padding: 10px 20px 20px 20px !important;
+}

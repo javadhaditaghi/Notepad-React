@@ -1,0 +1,10 @@
+h6 {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 20px;
+    font-size: 18px;
+    color: #9a9997;
+}
