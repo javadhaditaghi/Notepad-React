@@ -6,7 +6,7 @@ import allNotes from "./content"
 
 const Note = () => {
     const baseStyle = {
-        margin: `40px`, display: "flex", justifyContent: 'space-between'
+        margin: `40px`, display: "flex", justifyContent: 'spaceBetween', flexWrap: "wrap"
     }
     return (
         <>
